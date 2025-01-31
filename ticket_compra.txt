@@ -1,0 +1,3 @@
+pedro compro 5 boletos, el total es de 54.00
+nayelli compro 4 boletos, el total es de 43.20
+Total: 87.48
